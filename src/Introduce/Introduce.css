@@ -1,0 +1,47 @@
+.introduceOuter{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+
+.criSub{
+    margin: 40px;
+    padding: 40px;
+    width: 40%;
+}
+.intro{
+    margin: 40px;
+    padding: 40px;
+    width: 40%;
+    color: var(--pure-white, #FFF);
+    text-align: left;
+font-size: 40px;
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+line-height: 161.523%;
+border: #5f5e5e;
+border-right-style: solid;
+}
+.criminal{
+    color: var(--pure-white, #FFF);
+text-align: left;
+font-size: 32px;
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+line-height: 162.523%;
+}
+
+.subtxt{
+    color: var(--pure-white, #FFF);
+font-size: 18px;
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+line-height: 162.523%;
+opacity: 0.30000001192092896;
+text-align: left;
+}

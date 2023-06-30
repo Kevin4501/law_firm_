@@ -1,0 +1,14 @@
+:root{
+    --primary-color : #1d1c1c;
+    --yellow-color:##373737;
+    --white-color: white
+}
+*,
+*::before,
+*::after{
+    box-sizing:border-box;
+}
+body{
+    font-family: Inter;
+    background-color: var(--primary-color);
+}

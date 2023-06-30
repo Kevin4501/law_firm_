@@ -1,0 +1,22 @@
+.carouselWrapper{
+    
+}
+.leftNavigation{
+    cursor: pointer;
+    position: absolute;
+    top: 102px;
+    transform: translateX(-50%);
+    z-index: 10;
+
+}
+.rightNavigation{
+
+    cursor: pointer;
+    position: absolute;
+    top: 102px;
+    right: 10px;
+    transform: translateX(-50%);
+    z-index: 10;
+
+
+}

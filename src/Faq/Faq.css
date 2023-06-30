@@ -1,0 +1,38 @@
+.FaqWrapper{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    width: 100%;
+    margin: 30px;
+    
+    box-sizing: border-box;
+    padding: 0px 200px 0px 200px;
+}
+
+
+.faqLeftHead{
+    color: var(--pure-white, #FFF);
+font-size: 54px;
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+line-height: 138.023%;
+}
+.faqLeftSub{
+    color: var(--pure-white, #FFF);
+font-size: 18px;
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+line-height: 162.523%;
+opacity: 0.30000001192092896;
+}
+.Faq1{
+    margin: 0px;
+    text-align: left;
+    width: 50%;
+}
+.Faq2{
+    width: 50%;
+}

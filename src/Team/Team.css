@@ -1,0 +1,20 @@
+.teamTitle{
+    color: var(--pure-white, #FFF);
+font-size: 54px;
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+line-height: 143.023%;
+}
+
+.teamWrapper{
+        display: grid;
+        grid-template-columns: 30rem 30rem 30rem;
+        grid-gap: 20px;
+        grid-auto-flow: row;
+        align-content: center;
+    justify-content: center;
+    justify-items: center;
+    padding: 15px;
+      }
+

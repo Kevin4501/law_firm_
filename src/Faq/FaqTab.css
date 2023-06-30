@@ -1,0 +1,31 @@
+.accordionWrapper{
+    border-top: 1px solid #ccc;
+    margin-top: 1rem;
+}
+.FaqTabWrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.FaqHead{
+    
+    text-align: left;
+    color: var(--pure-white, #FFF);
+    font-size: 24px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    
+}
+.FaqSubHead{
+    text-align: left;
+    color: var(--pure-white, #FFF);
+    font-size: 18px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 162.523%;
+    opacity: 0.30000001192092896;
+}

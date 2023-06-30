@@ -1,0 +1,16 @@
+.whychoose{
+    margin: 20px;
+    width: 100%;
+    color: var(--pure-white, #FFF);
+font-size: 54px;
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+line-height: 143.023%;
+}
+.choosecardWrapper{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}

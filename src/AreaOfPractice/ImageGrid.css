@@ -1,0 +1,26 @@
+.row{
+    margin: 30px;
+    display: flex;
+    gap: 20px;
+    justify-content: center
+}
+.first{
+width: 700px;
+height: 300px;
+}
+.second{
+    height: 342px; 
+    width: 342px;
+}
+.containerArea{
+    position: relative;
+  text-align: center;
+ 
+}
+.areaHeadlines{
+    color: white;
+    position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
